@@ -1,6 +1,6 @@
 # YouTube Playlist Hesaplama
 
-Bu proje, bir YouTube çalma listesinde bulunan videoların toplam süresini hesaplamak amacıyla tasarlanmıştır. Kullanıcılar, çalma listesindeki videoların uzunluğunu kolayca öğrenerek, toplam izleme süresini daha etkili bir şekilde yönetebilirler. Bu sayede, kullanıcılar önceden belirlenen bir zaman çerçevesi içinde çalma listesini izleyebilir veya videoları planlarına uygun bir şekilde organize edebilirler. Bu proje, YouTube deneyiminizi daha kişiselleştirilmiş ve kullanıcı dostu haline getirmeyi amaçlar.
+Bu proje, bir YouTube çalma listesinde bulunan videoların toplam süresini hesaplamak amacıyla tasarlanmıştır. Kullanıcılar, çalma listesindeki videoların uzunluğunu kolayca öğrenerek, toplam izleme süresini daha etkili bir şekilde yönetebilirler. Bu sayede, kullanıcılar önceden belirlenen bir zaman çerçevesi içinde çalma listesini izleyebilir veya videoları planlarına uygun bir şekilde organize edebilirler.
 
 ## Nasıl Kullanılır
 
